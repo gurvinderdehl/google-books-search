@@ -6,10 +6,14 @@ A Google Books Search app which is built using React. The point of this is app i
 
 ## Technologies Used
 
-* React  * Bootstrap
-* MongoDB and Mongoose * JSX
-* React Router * Express
-* JSX * Node.js
+* React  
+* Bootstrap
+* MongoDB and Mongoose 
+* JSX
+* React Router 
+* Express
+* JSX 
+* Node.js
 * Deployed to Heroku
 
 ## Screenshot
